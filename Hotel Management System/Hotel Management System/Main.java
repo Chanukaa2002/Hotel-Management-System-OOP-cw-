@@ -2,8 +2,8 @@ import java.util.Scanner;
 public class Main {
     /* Team Members=>
      *    1. Chanuka DIlshan - GADSE232F-005
-     *    1. Kalidu Suraj - GADSE232F-006
-     *    1. Ravidu Susiripala - GADSE232F-010
+     *    2. Kalidu Suraj - GADSE232F-006
+     *    3. Ravidu Susiripala - GADSE232F-010
      */
     public static String Hotel_ID;
     
